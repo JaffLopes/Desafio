@@ -10,7 +10,7 @@ namespace ServicoLoja.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Desafio";
 
             return View();
         }
